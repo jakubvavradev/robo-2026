@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>A small robot car we built from scratch in about two weeks for the ROBO 2026 competition.</b><br>
-  🥉 3rd place for the presentation · ⚡ <a href="https://youtube.com/shorts/yKaat7GN8Ac">Watch the Short</a> · 🎬 <a href="https://youtube.com/@jakubvavradev">More on YouTube</a>
+  🥉 3rd place for the presentation · 🎬 <a href="https://youtu.be/i93u59UNURg"><b>Watch the full build story</b></a> · ⚡ <a href="https://youtube.com/shorts/yKaat7GN8Ac">Watch the Short</a> · 🎬 <a href="https://youtube.com/@jakubvavradev">More on YouTube</a>
 </p>
 
 ---
